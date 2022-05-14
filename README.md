@@ -1,5 +1,10 @@
 # Spring boot device seller
-
+## Important: 
+```aidl
+All backend part is working properly, except getPurchase endpoint. 
+Currently I'm working on it. 
+Thanks
+```
 ## Endpoints
 
 ### sign up
